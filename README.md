@@ -2,7 +2,7 @@
 
 **目录如下：**
 
-<img src="assets\ScreenShot.png" align="left" width="800" />
+<img src="assets\ScreenShot.png" align="left" width="850" />
 
 
 **下载或clone到本地用浏览器打开index.html即可**
