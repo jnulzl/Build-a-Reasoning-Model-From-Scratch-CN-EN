@@ -5,9 +5,7 @@
 <img src="assets\ScreenShot.png" align="left" width="800" />
 
 
-
 **下载或clone到本地用浏览器打开index.html即可**
-
 
 
 ### 配套代码
